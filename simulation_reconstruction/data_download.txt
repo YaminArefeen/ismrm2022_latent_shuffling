@@ -1,3 +1,5 @@
 T2-shuffling data can be downloaded from the following link:
 
 https://www.dropbox.com/sh/b7oosi66axwxsd9/AADwax6v94Lh0Ied-HkB0zBda?dl=0
+
+After download, place 'for_t2hsfl.mat' into the 'ismrm2022_latent_shuffling/simulation_reconstruction/data/' path
