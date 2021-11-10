@@ -1,4 +1,4 @@
-Demonstrate code for the ISMRM abstract "Learning compact latent representations of signal evolution for improved shuffling reconstruction".
+Demonstration code for the ISMRM abstract "Learning compact latent representations of signal evolution for improved shuffling reconstruction".
 
 'dictionary_compression' contains files to run the experiments for Figure 2
 
